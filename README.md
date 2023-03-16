@@ -36,7 +36,7 @@ Consumers consider a variety of factors when selecting a vehicle. One such consi
 Towing capacity in pounds (lbs)
 
 ### Null and Alternative Hypothesis
-H<sub>o</sub>: The mean towing capacity for MechaCar prototypes and it's competitors is equal.
+H<sub>o</sub>: The mean towing capacity for MechaCar prototypes and it's competitors is equal. <br>
 H<sub>a</sub>: The mean towing capacity for MechaCar prototypes and it's competitors is NOT equal.
 
 ### Statistical Test
